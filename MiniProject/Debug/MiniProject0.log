@@ -1,0 +1,3 @@
+﻿  zthompson_binaryutils.cpp
+C:\Users\zacht\Documents\- School\BIEN 4280 - Biocomputing Design Lab\MiniProject0\zthompson_binaryutils.cpp(52,14): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  MiniProject0.vcxproj -> C:\Users\zacht\Documents\- School\BIEN 4280 - Biocomputing Design Lab\MiniProject0\Debug\MiniProject0.exe
